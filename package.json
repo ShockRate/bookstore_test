@@ -1,0 +1,16 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple bookstore app for training purposes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+  	"express":"*",
+  	"body-parser":"*",
+  	"mongoose":"*"
+  },
+  "author": "ShockRates",
+  "license": "ISC"
+}
